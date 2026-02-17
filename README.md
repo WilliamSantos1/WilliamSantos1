@@ -42,7 +42,8 @@
 
 ###
 
-<p align="left">📍 Repositório: https://github.com/vitoriarodrigs/Jogo-Mago-do-Oeste<br><br>Jogo educativo desenvolvido com o objetivo de ensinar conceitos básicos de programação por meio da experimentação. Na história, o jogador assume o papel do Mago do Oeste, que deve enfrentar os magos do Norte, Sul e Leste para conquistar seus pergaminhos para conseguir conhecimentos antigos e esquecidos. Nele, o jogador cria feitiços combinando trechos de código e magias, gerando diferentes efeitos conforme as combinações utilizadas.<br>**Stack:** Java . JavaFX . Scene Builder . Photoshop</p>
+<p align="left">📍 Repositório: https://github.com/vitoriarodrigs/Jogo-Mago-do-Oeste<br><br>Jogo educativo desenvolvido com o objetivo de ensinar conceitos básicos de programação por meio da experimentação. Na história, o jogador assume o papel do Mago do Oeste, que deve enfrentar os magos do Norte, Sul e Leste para conquistar seus pergaminhos para conseguir conhecimentos antigos e esquecidos. Nele, o jogador cria feitiços combinando trechos de código e magias, gerando diferentes efeitos conforme as combinações utilizadas.<br></p>
+<b>Stack:</b> Java · JavaFX · Scene Builder · Photoshop
 
 ###
 
@@ -50,9 +51,14 @@
 
 ###
 
-<p align="left">📍 Repositório: https://github.com/esterfanecamelo/Cafeteria<br><br>Projeto desenvolvido na disciplina de Padrões de Projeto que simula um sistema de cafeteria, onde o cliente monta pedidos em um totem de autoatendimento e acompanha o status de preparo em tempo real. O sistema utiliza diversos padrões de projeto para organização e manutenção do código.<br>**Stack:** Typescript . React + ViteTS . Figma</p>
+<p align="left">📍 Repositório: https://github.com/esterfanecamelo/Cafeteria<br><br>Projeto desenvolvido na disciplina de Padrões de Projeto que simula um sistema de cafeteria, onde o cliente monta pedidos em um totem de autoatendimento e acompanha o status de preparo em tempo real. O sistema utiliza diversos padrões de projeto para organização e manutenção do código.<br></p>
+<b>Stack:</b> Typescript . React + ViteTS . Figma
 
+## 📊 Estatísticas
+
+![stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WilliamSantos1&theme=nord_bright)
 ###
+
 
 <h4 align="left">Contato:</h4>
 
