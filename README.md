@@ -5,6 +5,13 @@
 <p align="left">💻 Desenvolvedor em Formação | 🎓 Ciência da Computação - UECE<br><br>🎯 Atualmente: Desenvolvendo interfaces em Front-End na linguágem Typescript com a biblioteca React</p>
 
 ###
+<h4 align="left">Contato:</h4>
+<div align="left">
+  <p>Linkedin: https://www.linkedin.com/in/william-santos-672957324/</p>
+ <p>Email: williamsantos3594@gmail.com</p>
+</div>
+
+###
 
 <h2 align="left">Tecnologias e Ferramentas</h2>
 
@@ -38,7 +45,7 @@
 
 ###
 
-<h3 align="left">🎮 O Mago do Oeste</h3>
+<h3 align="left">🎮 O Mago do Oeste — Jogo Educativo</h3>
 
 ###
 
@@ -55,18 +62,9 @@
 <b>Stack:</b> Typescript . React + ViteTS . Figma
 
 ## 📊 Estatísticas
+| ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=WilliamSantos1&theme=nord_bright) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WilliamSantos1&theme=nord_bright) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WilliamSantos1&theme=nord_bright) |
+| :-: | :-: | :-: |
 
 ![stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WilliamSantos1&theme=nord_bright)
 ###
 
-
-<h4 align="left">Contato:</h4>
-
-###
-
-<div align="left">
-  <p>Linkedin: https://www.linkedin.com/in/william-santos-672957324/</p>
- <p>Email: williamsantos3594@gmail.com</p>
-</div>
-
-###
