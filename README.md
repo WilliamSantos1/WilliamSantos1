@@ -61,6 +61,13 @@
 <p align="left">📍 Repositório: https://github.com/esterfanecamelo/Cafeteria<br><br>Projeto desenvolvido na disciplina de Padrões de Projeto que simula um sistema de cafeteria, onde o cliente monta pedidos em um totem de autoatendimento e acompanha o status de preparo em tempo real. O sistema utiliza diversos padrões de projeto para organização e manutenção do código.<br></p>
 <b>Stack:</b> Typescript . React + ViteTS . Figma
 
+<h3 align="left">🎮 Jogo do Tabuleiro — Padrões de Projeto</h3>
+
+###
+
+<p align="left">📍 Repositório: https://github.com/WilliamSantos1/Jogo-do-Tabuleiro-Padroes-de-Projeto<br><br>Projeto desenvolvido na disciplina de Programação Orientada a Objetos que objetiva o uso de padrões de projeto para o organização e manutenção do código de um jogo de tabuleiro.<br></p>
+<b>Stack:</b> Java · JavaFX · Scene Builder · Photoshop
+
 ## 📊 Estatísticas
 | ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=WilliamSantos1&theme=nord_bright) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WilliamSantos1&theme=nord_bright) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WilliamSantos1&theme=nord_bright) |
 | :-: | :-: | :-: |
