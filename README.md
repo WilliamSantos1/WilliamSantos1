@@ -4,12 +4,6 @@
 
 <p align="left">💻 Desenvolvedor em Formação | 🎓 Ciência da Computação - UECE<br><br>🎯 Atualmente: Desenvolvendo interfaces em Front-end na linguagem Typescript com React.</p>
 
-###
-<h4 align="left">Contato:</h4>
-<div align="left">
-  <p>LinkedIn: https://www.linkedin.com/in/william-santos-672957324/</p>
- <p>Email: williamsantos3594@gmail.com</p>
-</div>
 
 ###
 
